@@ -90,7 +90,7 @@ p {
 }
 
 .btn {
-    font-family: 'Open Sans', sans-serif;;
+    font-family: 'Open Sans', sans-serif;
     display: inline-block;
     background-color: #58D1BA;
     color: #fff;
@@ -195,3 +195,30 @@ p {
     font-family: 'Open Sans', sans-serif;
     color: #555;
 }
+
+hr {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.about {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.testimonial .col-3 {
+    box-shadow: 0 0 20px 0px rgba(0,0,0, 0.1);
+    text-align: center;
+}
+
+.fa.fa-quote-left, .fa-quote-right {
+    color: #F8AFA6;
+}
+
+.footer {
+    background: #58D1BA;
+    color: #ffff;
+    font-size: 14px;
+    margin-top: 25px;
+    padding: 60px 0 20px;
+}    
